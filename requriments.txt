@@ -1,6 +1,9 @@
 streamlit
 pandas
+transformers
+torch
+sentence-transformers
+huggingface-hub
 langchain
 langchain-community
-langchain-huggingface
-transformers
+faiss-cpu
